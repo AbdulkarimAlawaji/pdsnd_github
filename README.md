@@ -6,7 +6,7 @@ information file
 bikeshare.py
 
 ### Description
-his project analyze bike share company data 
+this project analyze bike share company data 
 
 ### Files used
 chicago.csv
@@ -14,4 +14,7 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-class leader, and Udacity website
+class leader, and Udacity website 
+
+### libraries 
+pandas
